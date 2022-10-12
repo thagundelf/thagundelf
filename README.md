@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thagundelf
-- 👀 I’m interested in nothing
+- 👀 I’m interested in programming and stuff
 
 <!---
 thagundelf/thagundelf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
